@@ -12,7 +12,7 @@ Instead of giving the fastest route blindly, it **tests the user first**:
 
 - Smart answers → 🚀 Shortcut  
 - Average answers → 🟡 Exploration route  
-- Wrong answers → 💀 Punishment route  
+- Wrong answers → 💀 Punishhment route  
 
 Navigation becomes a **game + judgment system**.
 
